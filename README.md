@@ -1,4 +1,5 @@
 # Multi-Environment Infrastructure with Terraform  
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/18573e77-3fcb-4c79-9156-bd608a4a8829" />
 
 
 ---
